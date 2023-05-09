@@ -25,21 +25,12 @@ Test analysis & design
 familiar with functional decomposition of products, creating state transition diagrams, writing use cases
 can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
-# API testing
-
-know the difference between SOAP and REST APIs
-gained experience through manual testing of APIs created for educational purposes
-know how to manipulate requests and create test cases using the SoapUI tool
-Exploratory testing
-
-capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
-
 # Test documentation
 
 can create test cases and checklists and know how and in which situations to use them effectively
 able to prepare comprehensive bug reports and provide detailed session reports
 
-# Python,Java and JavaScript fundamentals
+# Python, Java and JavaScript fundamentals
 
 can write simple functions and algorithms
 know when to use for and while
@@ -58,10 +49,6 @@ know how to use dashboards and statistics
 
 know how to create bug reports
 able to create projects and track their progress
-
-# SoapUI
-
-Browser developer tools
 
 # VirtualBox
 
